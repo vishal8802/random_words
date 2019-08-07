@@ -1,0 +1,35 @@
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+span {
+  float: right;
+}
+td,
+th {
+  border: 1px solid lightgray;
+  text-align: left;
+  padding: 8px;
+}
+th {
+  background: lightgray;
+}
+h2 {
+  text-align: center;
+  padding: 10px;
+}
+
+#throw {
+  padding: 10px;
+  margin: 10px;
+}
+a {
+  text-decoration: none;
+}
+.box {
+  background-color: #ffdc00;
+  width: 600px;
+  height: auto;
+  margin: 0 auto;
+}
